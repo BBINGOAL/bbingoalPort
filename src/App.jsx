@@ -19,8 +19,8 @@ function App() {
         count: 100,
         size: { min: 2, max: 8, pulse: 0 },
         speed: {
-          x: { min: 0, max: 0.2 },
-          y: { min: 0, max: 0.2 }
+          x: { min: 0, max: 0.15 },
+          y: { min: 0, max: 0.15 }
         },
         colors: {
           background: "#111827",

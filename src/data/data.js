@@ -12,7 +12,7 @@ export const HisEducation =[
         school:"Debsirin School",
         title:"Secondary School",
         year:"2018 - 2023",
-        gpax:"Gpax : 3.92 (2018-2020) | 3.91(2021-2023)"
+        gpax:"Gpax : 3.92 (2018-2020) | 3.91 (2021-2023)"
     },
     {
         school:"King Mongkut's University of Technology Thonburi (KMUTT) Computer Engineering",
