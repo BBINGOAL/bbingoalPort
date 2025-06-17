@@ -22,7 +22,7 @@ const AboutMe = () => {
             <br />
             <span className='text-[20px] font-bold text-[#FF6500]'>Hello , My name is Siwarak Chatvichai you can call me bingo</span>
             <br />
-            <p>I am a student of Computer Engineering at King Mongkut's University of Technology Thonburi (KMUTT). I'm someone who is interested in technology and passionate about building great web experiences.</p><br/>
+            <p>I am a student of Computer Engineering at King Mongkut's University of Technology Thonburi (KMUTT). I'm someone who is interested in technology.</p><br/>
             <p>Right now, I'm actively exploring different areas in tech to gain hands-on experience, improve my skills, and discover what I truly enjoy working on.  
             Whether it's front-end development, UI/UX design, or back-end systems, I'm always open to learning and trying new things.</p>
             </p>
